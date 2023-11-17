@@ -16,11 +16,13 @@ I’m a first-year Ph.D. student at The Ohio State University, proudly advised b
 * **[arXiv 2023]** TableLlama: Towards Open Large Generalist Models for Tables
   Tianshu Zhang$^*$, Xiang Yue, **Yifei Li**, Huan Sun
 
-  **[[pdf](https://arxiv.org/abs/2311.09206)]**
+  **[[pdf](https://arxiv.org/abs/2311.09206)]** **[[code](https://github.com/flyhero99/CodeT/tree/main/DIVERSE)]**
   
 * [arxiv 2022] Input-tuning: Adapting unfamiliar inputs to frozen pretrained models
 
   Shengnan An$^*$, **Yifei Li$^*$**, Zeqi Lin, Qian Liu, Bei Chen, Qiang Fu, Weizhu Chen, Nanning Zheng, Jian-Guang Lou
+
+  **[pdf](https://arxiv.org/pdf/2203.03131.pdf)**
 
 # Publications
 

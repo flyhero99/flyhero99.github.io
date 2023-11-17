@@ -7,16 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Bio
+## Bio
 
 I’m a first-year Ph.D. student at [The Ohio State University](https://cse.osu.edu/), proudly advised by Prof. [Huan Sun](https://web.cse.ohio-state.edu/~sun.397/). My research interests focus on enhancing the reasoning ability and faithfulness of large language models. I received my Master's degree from [Peking University](https://cs.pku.edu.cn/English/Home.htm) in 2023 and Bachelor's degree from [Northeastern University (China)](http://sc.neu.edu.cn/english/main.htm) in 2020.
 
-# Preprints
+## Preprints
 
-## Definition Lists
+Conference Papers
 
-**[arXiv 2023]** TableLlama: Towards Open Large Generalist Models for Tables
-:  Tianshu Zhang$^*$, Xiang Yue, **Yifei Li**, Huan Sun
+* Tianshu Zhang$^*$, Xiang Yue, **Yifei Li**, Huan Sun
 
 * **[arXiv 2023]** TableLlama: Towards Open Large Generalist Models for Tables
   Tianshu Zhang$^*$, Xiang Yue, **Yifei Li**, Huan Sun
@@ -29,7 +28,7 @@ I’m a first-year Ph.D. student at [The Ohio State University](https://cse.osu.
 
   **[[pdf](https://arxiv.org/pdf/2203.03131.pdf)]**
 
-# Publications
+## Publications
 
 * **[ACL 2023 (long)]** Making language models better reasoners with step-aware verifier
 

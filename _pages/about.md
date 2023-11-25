@@ -22,7 +22,7 @@ I’m a first-year Ph.D. student at [The Ohio State University](https://cse.osu.
 ### Conference Papers
 
 * **[ACL 2023 (long)]** Making language models better reasoners with step-aware verifier<br>**Yifei Li$^*$**, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen<br>
-  **[[pdf](https://aclanthology.org/2023.acl-long.291.pdf)]** **[[code](https://github.com/flyhero99/CodeT/tree/main/DIVERSE)]**
+  **[[pdf](https://aclanthology.org/2023.acl-long.291.pdf)]** **[[code](https://github.com/flyhero99/CodeT/tree/main/DIVERSE)]** **[[poster](https://flyhero99.github.io/files/DIVERSE_Poster.pdf)]**
 
 ### Journal Papers
 

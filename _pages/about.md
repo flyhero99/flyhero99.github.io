@@ -14,7 +14,7 @@ I’m a first-year Ph.D. student at [The Ohio State University](https://cse.osu.
 ## Preprints
 
 * **[arXiv 2023]** TableLlama: Towards Open Large Generalist Models for Tables<br>
-  Tianshu Zhang$^*$, Xiang Yue, **Yifei Li**, Huan Sun<br>**[[pdf](https://arxiv.org/abs/2311.09206)]** **[[code](https://github.com/OSU-NLP-Group/TableLlama)]** **[[data](https://huggingface.co/datasets/osunlp/TableInstruct/)]** **[[models](https://huggingface.co/osunlp/TableLlama/)]** **[[website](https://osu-nlp-group.github.io/TableLlama/)]**
+  Tianshu Zhang$^*$, Xiang Yue, **Yifei Li**, Huan Sun<br>**[[pdf](https://arxiv.org/abs/2311.09206)]** **[[code](https://github.com/OSU-NLP-Group/TableLlama)]** **[[data](https://huggingface.co/datasets/osunlp/TableInstruct/)]** **[[model](https://huggingface.co/osunlp/TableLlama/)]** **[[website](https://osu-nlp-group.github.io/TableLlama/)]**
 * **[arxiv 2022]** Input-tuning: Adapting unfamiliar inputs to frozen pretrained models<br>Shengnan An$^*$, **Yifei Li$^*$**, Zeqi Lin, Qian Liu, Bei Chen, Qiang Fu, Weizhu Chen, Nanning Zheng, Jian-Guang Lou<br>**[[pdf](https://arxiv.org/pdf/2203.03131.pdf)]**
 
 ## Publications

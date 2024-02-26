@@ -17,7 +17,7 @@ I’m a first-year Ph.D. student at [The Ohio State University](https://cse.osu.
   **[[pdf](https://arxiv.org/pdf/2402.15089.pdf)]** **[[code](https://github.com/OSU-NLP-Group/AttributionBench)]** **[[data](https://huggingface.co/datasets/osunlp/AttributionBench/)]** **[[website](https://osu-nlp-group.github.io/AttributionBench/)]**
 * **[arXiv 2023]** Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning <br>
   Peiyi Wang*, Lei Li, Zhihong Shao, RX Xu, Damai Dai, **Yifei Li**, Deli Chen, Y Wu, Zhifang Sui <br>
-  **[[pdf](https://arxiv.org/pdf/2312.08935.pdf)]** **[[data](https://huggingface.co/datasets/peiyi9979/Math-Shepherd)]** **[[Model](https://huggingface.co/peiyi9979/math-shepherd-mistral-7b-rl)]** **[[website](https://achieved-bellflower-4d6.notion.site/Math-Shepherd-Verify-and-Reinforce-LLMs-Step-by-step-without-Human-Annotations-41b6e73c860840e08697d347f8889bac)]**
+  **[[pdf](https://arxiv.org/pdf/2312.08935.pdf)]** **[[data](https://huggingface.co/datasets/peiyi9979/Math-Shepherd)]** **[[model](https://huggingface.co/peiyi9979/math-shepherd-mistral-7b-rl)]** **[[website](https://achieved-bellflower-4d6.notion.site/Math-Shepherd-Verify-and-Reinforce-LLMs-Step-by-step-without-Human-Annotations-41b6e73c860840e08697d347f8889bac)]**
 * **[arXiv 2023]** TableLlama: Towards Open Large Generalist Models for Tables <br>
   Tianshu Zhang$^*$, Xiang Yue, **Yifei Li**, Huan Sun <br>
   **[[pdf](https://arxiv.org/abs/2311.09206)]** **[[code](https://github.com/OSU-NLP-Group/TableLlama)]** **[[data](https://huggingface.co/datasets/osunlp/TableInstruct/)]** **[[model](https://huggingface.co/osunlp/TableLlama/)]** **[[website](https://osu-nlp-group.github.io/TableLlama/)]**

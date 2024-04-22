@@ -13,7 +13,8 @@ I’m a first-year Ph.D. student at [The Ohio State University](https://cse.osu.
 
 
 ## News
-* [03/2024] Our paper **[TableLlama](https://osu-nlp-group.github.io/TableLlama/)** got accepted by NAACL 2024!
+* [04/2024] Our paper **[TableLlama](https://osu-nlp-group.github.io/TableLlama/)** got accepted by NAACL 2024 (145/2434=6.0%)!
+* [03/2024] Our paper **[TableLlama](https://osu-nlp-group.github.io/TableLlama/)** got accepted by NAACL 2024 (565/2434=23.2%)!
 
 
 ## Preprints

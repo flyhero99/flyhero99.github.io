@@ -13,17 +13,13 @@ I’m a first-year Ph.D. student at [The Ohio State University](https://cse.osu.
 
 
 ## News
+* [05/2024] Our paper **[AttributionBench](https://osu-nlp-group.github.io/AttributionBench/)** got accepted by **ACL 2024 Findings** !
+* [05/2024] Our paper **[Math-Shepherd](https://achieved-bellflower-4d6.notion.site/Math-Shepherd-Verify-and-Reinforce-LLMs-Step-by-step-without-Human-Annotations-41b6e73c860840e08697d347f8889bac)** got accepted by **ACL 2024** !
 * [04/2024] Our paper **[TableLlama](https://osu-nlp-group.github.io/TableLlama/)** got accepted by **NAACL 2024** as an **Oral Paper 🔥** (145/2434=6.0%)!!
 * [03/2024] Our paper **[TableLlama](https://osu-nlp-group.github.io/TableLlama/)** got accepted by **NAACL 2024** (565/2434=23.2%)!
 
 
 ## Preprints
-* **[arXiv 2024]** AttributionBench: How Hard is Automatic Attribution Evaluation? <br>
-  **Yifei Li$^*$**, Xiang Yue, Zeyi Liao, Huan Sun <br>
-  **[[pdf](https://arxiv.org/pdf/2402.15089.pdf)]** **[[code](https://github.com/OSU-NLP-Group/AttributionBench)]** **[[data](https://huggingface.co/datasets/osunlp/AttributionBench/)]** **[[website](https://osu-nlp-group.github.io/AttributionBench/)]**
-* **[arXiv 2023]** Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning <br>
-  Peiyi Wang*, Lei Li, Zhihong Shao, RX Xu, Damai Dai, **Yifei Li**, Deli Chen, Y Wu, Zhifang Sui <br>
-  **[[pdf](https://arxiv.org/pdf/2312.08935.pdf)]** **[[data](https://huggingface.co/datasets/peiyi9979/Math-Shepherd)]** **[[model](https://huggingface.co/peiyi9979/math-shepherd-mistral-7b-rl)]** **[[website](https://achieved-bellflower-4d6.notion.site/Math-Shepherd-Verify-and-Reinforce-LLMs-Step-by-step-without-Human-Annotations-41b6e73c860840e08697d347f8889bac)]**
 * **[arxiv 2022]** Input-tuning: Adapting unfamiliar inputs to frozen pretrained models <br>
   Shengnan An$^*$, **Yifei Li$^*$**, Zeqi Lin, Qian Liu, Bei Chen, Qiang Fu, Weizhu Chen, Nanning Zheng, Jian-Guang Lou <br>
   **[[pdf](https://arxiv.org/pdf/2203.03131.pdf)]**
@@ -31,6 +27,12 @@ I’m a first-year Ph.D. student at [The Ohio State University](https://cse.osu.
 ## Publications
 
 ### Conference Papers
+* **[ACL Findings 2024 (long)]** AttributionBench: How Hard is Automatic Attribution Evaluation? <br>
+  **Yifei Li$^*$**, Xiang Yue, Zeyi Liao, Huan Sun <br>
+  **[[pdf](https://arxiv.org/pdf/2402.15089.pdf)]** **[[code](https://github.com/OSU-NLP-Group/AttributionBench)]** **[[data](https://huggingface.co/datasets/osunlp/AttributionBench/)]** **[[website](https://osu-nlp-group.github.io/AttributionBench/)]**
+* **[ACL 2024 (long)]** Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning <br>
+  Peiyi Wang*, Lei Li, Zhihong Shao, RX Xu, Damai Dai, **Yifei Li**, Deli Chen, Y Wu, Zhifang Sui <br>
+  **[[pdf](https://arxiv.org/pdf/2312.08935.pdf)]** **[[data](https://huggingface.co/datasets/peiyi9979/Math-Shepherd)]** **[[model](https://huggingface.co/peiyi9979/math-shepherd-mistral-7b-rl)]** **[[website](https://achieved-bellflower-4d6.notion.site/Math-Shepherd-Verify-and-Reinforce-LLMs-Step-by-step-without-Human-Annotations-41b6e73c860840e08697d347f8889bac)]**
 * **[NAACL 2024 (long)]** TableLlama: Towards Open Large Generalist Models for Tables <br>
   Tianshu Zhang$^*$, Xiang Yue, **Yifei Li**, Huan Sun <br>
   **[[pdf](https://arxiv.org/abs/2311.09206)]** **[[code](https://github.com/OSU-NLP-Group/TableLlama)]** **[[data](https://huggingface.co/datasets/osunlp/TableInstruct/)]** **[[model](https://huggingface.co/osunlp/TableLlama/)]** **[[website](https://osu-nlp-group.github.io/TableLlama/)]**

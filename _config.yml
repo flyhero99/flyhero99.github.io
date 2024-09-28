@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yifei Li"
 title_separator          : "-"
 name                     : &name "Yifei Li"
-description              : &description "1st-Year Ph.D. Student@OSU. Previous MS@PekingU and BEng@NEU(China)"
+description              : &description "2nd-Year Ph.D. Student@OSU. Previous MS@PekingU and BEng@NEU(China)"
 url                      : https://flyhero99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "flyhero99/flyhero99.github.io"
@@ -87,6 +87,7 @@ author:
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=-9Kle0YAAAAJ"
+  dblp             : "https://dblp.org/pid/38/1978-5.html"
   email            : "li.14042@osu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "yifei-li-353634164"
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8937-6183"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

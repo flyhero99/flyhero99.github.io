@@ -23,7 +23,7 @@ I’m a second-year Ph.D. student at [The Ohio State University](https://cse.osu
 
 ### Conference Papers
 * **[arXiv 2024]** ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery <br>
-  Ziru Chen$^{*}$, Shijie Chen$^{*}$, Yuting Ning, Qianheng Zhang, Boshi Wang, Botao Yu, **Yifei Li**, Zeyi Liao, Chen Wei, Zitong Lu, Vishal Dey, Mingyi Xue, Frazier N Baker, Benjamin Burns, Daniel Adu-Ampratwum, Xuhui Huang, Xia Ning, Song Gao, Yu Su, Huan Sun <br>
+  Ziru Chen$^{\*}$, Shijie Chen$^{\*}$, Yuting Ning, Qianheng Zhang, Boshi Wang, Botao Yu, **Yifei Li**, Zeyi Liao, Chen Wei, Zitong Lu, Vishal Dey, Mingyi Xue, Frazier N Baker, Benjamin Burns, Daniel Adu-Ampratwum, Xuhui Huang, Xia Ning, Song Gao, Yu Su, Huan Sun <br>
   **[[pdf](https://arxiv.org/pdf/2402.15089.pdf)]** **[[code](https://github.com/OSU-NLP-Group/ScienceAgentBench)]** **[[data](https://huggingface.co/datasets/osunlp/ScienceAgentBench)]** **[[website](https://osu-nlp-group.github.io/ScienceAgentBench/)]**
 * **[ACL Findings 2024 (long)]** AttributionBench: How Hard is Automatic Attribution Evaluation? <br>
   **Yifei Li$^*$**, Xiang Yue, Zeyi Liao, Huan Sun <br>

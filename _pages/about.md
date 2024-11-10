@@ -11,6 +11,8 @@ redirect_from:
 
 I’m a second-year Ph.D. student at [The Ohio State University](https://cse.osu.edu/), proudly advised by Prof. [Huan Sun](https://web.cse.ohio-state.edu/~sun.397/). My recent research interests focus on enhancing the reasoning ability and faithfulness of large language models. Previously, I received my Master's degree from [Peking University](https://cs.pku.edu.cn/English/Home.htm) in 2023 and Bachelor's degree from [Northeastern University (China)](http://sc.neu.edu.cn/english/main.htm) in 2020.
 
+I’m currently looking for summer internship opportunities. Feel free to reach out to me if you’re interested in my research!
+
 ## News
 * [08/2024] Will be in-person attending ACL 2024 at Bangkok, Thailand from Aug 10th to Aug 16th. Welcome to coffee chats!
 * [05/2024] Our paper **[AttributionBench](https://osu-nlp-group.github.io/AttributionBench/)** got accepted by **ACL 2024 Findings** !
@@ -29,7 +31,7 @@ I’m a second-year Ph.D. student at [The Ohio State University](https://cse.osu
   **Yifei Li$^*$**, Xiang Yue, Zeyi Liao, Huan Sun <br>
   **[[pdf](https://arxiv.org/pdf/2402.15089.pdf)]** **[[code](https://github.com/OSU-NLP-Group/AttributionBench)]** **[[data](https://huggingface.co/datasets/osunlp/AttributionBench/)]** **[[website](https://osu-nlp-group.github.io/AttributionBench/)]** **[[Poster](https://flyhero99.github.io/files/AttributionBench_Poster_v1.pdf)]**
 * **[ACL 2024 (long)]** Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning <br>
-  Peiyi Wang*, Lei Li, Zhihong Shao, RX Xu, Damai Dai, **Yifei Li**, Deli Chen, Y Wu, Zhifang Sui <br>
+  Peiyi Wang*, Lei Li, Zhihong Shao, RX Xu, Damai Dai, **Yifei Li**, Deli Chen, Yu Wu, Zhifang Sui <br>
   **[[pdf](https://arxiv.org/pdf/2312.08935.pdf)]** **[[data](https://huggingface.co/datasets/peiyi9979/Math-Shepherd)]** **[[model](https://huggingface.co/peiyi9979/math-shepherd-mistral-7b-rl)]** **[[website](https://achieved-bellflower-4d6.notion.site/Math-Shepherd-Verify-and-Reinforce-LLMs-Step-by-step-without-Human-Annotations-41b6e73c860840e08697d347f8889bac)]**
 * **[NAACL 2024 (long)]** TableLlama: Towards Open Large Generalist Models for Tables <br>
   Tianshu Zhang$^*$, Xiang Yue, **Yifei Li**, Huan Sun <br>

@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Bio
 
-I’m a first-year Ph.D. student at [The Ohio State University](https://cse.osu.edu/), proudly advised by Prof. [Huan Sun](https://web.cse.ohio-state.edu/~sun.397/). My recent research interests focus on enhancing the reasoning ability and faithfulness of large language models. Previously, I received my Master's degree from [Peking University](https://cs.pku.edu.cn/English/Home.htm) in 2023 and Bachelor's degree from [Northeastern University (China)](http://sc.neu.edu.cn/english/main.htm) in 2020.
+I’m a second-year Ph.D. student at [The Ohio State University](https://cse.osu.edu/), proudly advised by Prof. [Huan Sun](https://web.cse.ohio-state.edu/~sun.397/). My recent research interests focus on enhancing the reasoning ability and faithfulness of large language models. Previously, I received my Master's degree from [Peking University](https://cs.pku.edu.cn/English/Home.htm) in 2023 and Bachelor's degree from [Northeastern University (China)](http://sc.neu.edu.cn/english/main.htm) in 2020.
 
 ## News
 * [08/2024] Will be in-person attending ACL 2024 at Bangkok, Thailand from Aug 10th to Aug 16th. Welcome to coffee chats!
@@ -22,6 +22,9 @@ I’m a first-year Ph.D. student at [The Ohio State University](https://cse.osu.
 ## Publications
 
 ### Conference Papers
+* **[arXiv 2024]** AttributionBench: How Hard is Automatic Attribution Evaluation? <br>
+  **Yifei Li$^*$**, Xiang Yue, Zeyi Liao, Huan Sun <br>
+  **[[pdf](https://arxiv.org/pdf/2402.15089.pdf)]** **[[code](https://github.com/OSU-NLP-Group/AttributionBench)]** **[[data](https://huggingface.co/datasets/osunlp/AttributionBench/)]** **[[website](https://osu-nlp-group.github.io/AttributionBench/)]**
 * **[ACL Findings 2024 (long)]** AttributionBench: How Hard is Automatic Attribution Evaluation? <br>
   **Yifei Li$^*$**, Xiang Yue, Zeyi Liao, Huan Sun <br>
   **[[pdf](https://arxiv.org/pdf/2402.15089.pdf)]** **[[code](https://github.com/OSU-NLP-Group/AttributionBench)]** **[[data](https://huggingface.co/datasets/osunlp/AttributionBench/)]** **[[website](https://osu-nlp-group.github.io/AttributionBench/)]**

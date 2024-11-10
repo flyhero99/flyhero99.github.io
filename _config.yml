@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yifei Li"
   avatar           : "Yifei_at_Statue_of_Liberty.jpg"
-  bio              : "1st-Year Ph.D. Student@OSU"
+  bio              : "Ph.D. Student @ Ohio State"
   location         : "Columbus, OH"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -105,6 +105,7 @@ author:
   lastfm           :
   linkedin         : "yifei-li-353634164"
   orcid            : "https://orcid.org/0000-0001-8937-6183"
+  openreview       : "https://openreview.net/profile?id=~Yifei_Li5"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +114,7 @@ author:
   twitter          : "YifeiLiPKU"
   vine             :
   weibo            :
-  xing             :
+  xing             : a
   youtube          :
   wikipedia        :
 

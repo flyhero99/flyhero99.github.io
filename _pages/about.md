@@ -70,8 +70,6 @@ Boyu Gou$^{\*}$, Zanming Huang$^{\*}$, Yuting Ning$^{\*}$, Yu Gu, Michael Lin, W
   [[pdf](https://arxiv.org/pdf/2203.03131.pdf)]
 
 
-Last Update: 08/02/2025
-
 <div id="mapContainer" style="width: 40%; margin: 0 auto;">
 <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=KeINzbp3V1iU2qXCgaZzqvSntRFws0v-dJqifZ5CBKM&cl=ffffff&w=a"></script>
 </div>

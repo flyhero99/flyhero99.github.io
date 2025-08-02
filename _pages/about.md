@@ -15,13 +15,21 @@ I’m currently looking for 2026 summer internship opportunities. Feel free to r
 
 ## News
 * [06/2025]: Releasing **[AutoSDT](https://osu-nlp-group.github.io/AutoSDT/)**, an automated pipeline for scaling high-quality data-driven scientific coding tasks.
+  
 * [06/2025]: Check out our new preprint **[Mind2Web 2](https://osu-nlp-group.github.io/Mind2Web-2/)**, a benchmark for evaluating agentic search with agent-as-a-judge.
+  
 * [01/2025]: Our paper **[ScienceAgentBench](https://osu-nlp-group.github.io/ScienceAgentBench/)** is accepted to ICLR 2025.
+  
 * [10/2024]: Check out our new preprint **[ScienceAgentBench](https://osu-nlp-group.github.io/ScienceAgentBench/)**, a new benchmark to rigorously assess language agents for data-driven scientific discovery.
+  
 * [08/2024] Will be in-person attending ACL 2024 at Bangkok, Thailand from Aug 10th to Aug 16th. Welcome to coffee chats!
+  
 * [05/2024] Our paper **[AttributionBench](https://osu-nlp-group.github.io/AttributionBench/)** got accepted by **ACL 2024 Findings** !
-* [05/2024] Our paper **[Math-Shepherd](https://achieved-bellflower-4d6.notion.site/Math-Shepherd-Verify-and-Reinforce-LLMs-Step-by-step-without-Human-Annotations-41b6e73c860840e08697d347f8889bac)** got accepted by **ACL 2024** !
+  
+* [05/2024] Our paper **[Math-Shepherd](https://achieved-bellflower-4d6.notion.site/Math-Shepherd-Verify-and-Reinforce-LLMs-Step-by-step-without-Human-Annotations-41b6e73c860840e08697d347f8889bac)** got accepted by **ACL 2024**!
+  
 * [04/2024] Our paper **[TableLlama](https://osu-nlp-group.github.io/TableLlama/)** got accepted by **NAACL 2024** as an **Oral Paper 🔥** (145/2434=6.0%)!!
+  
 * [03/2024] Our paper **[TableLlama](https://osu-nlp-group.github.io/TableLlama/)** got accepted by **NAACL 2024** (565/2434=23.2%)!
 
 ## Preprints

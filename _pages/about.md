@@ -14,17 +14,25 @@ I’m a second-year Ph.D. student at [The Ohio State University](https://cse.osu
 I’m currently looking for summer internship opportunities. Feel free to reach out to me if you’re interested in my research!
 
 ## News
+* [06/2025]: Releasing **[AutoSDT](https://osu-nlp-group.github.io/AutoSDT/)**, an automated pipeline for scaling high-quality data-driven scientific coding tasks.
+* [06/2025]: Check out our new preprint **[Mind2Web 2](https://osu-nlp-group.github.io/Mind2Web-2/)**, a benchmark for evaluating agentic search with agent-as-a-judge.
+* [01/2025]: Our paper **[ScienceAgentBench](https://osu-nlp-group.github.io/ScienceAgentBench/)** is accepted to ICLR 2025.
+* [10/2024]: Check out our new preprint **[ScienceAgentBench](https://osu-nlp-group.github.io/ScienceAgentBench/)**, a new benchmark to rigorously assess language agents for data-driven scientific discovery.
 * [08/2024] Will be in-person attending ACL 2024 at Bangkok, Thailand from Aug 10th to Aug 16th. Welcome to coffee chats!
 * [05/2024] Our paper **[AttributionBench](https://osu-nlp-group.github.io/AttributionBench/)** got accepted by **ACL 2024 Findings** !
 * [05/2024] Our paper **[Math-Shepherd](https://achieved-bellflower-4d6.notion.site/Math-Shepherd-Verify-and-Reinforce-LLMs-Step-by-step-without-Human-Annotations-41b6e73c860840e08697d347f8889bac)** got accepted by **ACL 2024** !
 * [04/2024] Our paper **[TableLlama](https://osu-nlp-group.github.io/TableLlama/)** got accepted by **NAACL 2024** as an **Oral Paper 🔥** (145/2434=6.0%)!!
 * [03/2024] Our paper **[TableLlama](https://osu-nlp-group.github.io/TableLlama/)** got accepted by **NAACL 2024** (565/2434=23.2%)!
 
+## Preprints
+* **[arXiv 06/2025]** AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists <br>
+**Yifei Li$^{\*}$**, Hanane Nour Moussa$^{\*}$, Ziru Chen, Shijie Chen, Botao Yu, Mingyi Xue, Benjamin Burns, Tzu-Yao Chiu, Vishal Dey, Zitong Lu, Chen Wei, Qianheng Zhang, Tianyu Zhang, Song Gao, Xuhui Huang, Xia Ning, Nesreen K. Ahmed, Ali Payani, Huan Sun
+* **[arXiv 06/2025]** Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge <br>
+Boyu Gou*, Zanming Huang*, Yuting Ning*, …, Huan Sun, Yu Su
 
 ## Publications
 
-### Conference Papers
-* **[arXiv 2024]** ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery <br>
+* **[ICLR 2024]** ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery <br>
   Ziru Chen$^{\*}$, Shijie Chen$^{\*}$, Yuting Ning, Qianheng Zhang, Boshi Wang, Botao Yu, **Yifei Li**, Zeyi Liao, Chen Wei, Zitong Lu, Vishal Dey, Mingyi Xue, Frazier N Baker, Benjamin Burns, Daniel Adu-Ampratwum, Xuhui Huang, Xia Ning, Song Gao, Yu Su, Huan Sun <br>
   **[[pdf](https://arxiv.org/pdf/2402.15089.pdf)]** **[[code](https://github.com/OSU-NLP-Group/ScienceAgentBench)]** **[[data](https://huggingface.co/datasets/osunlp/ScienceAgentBench)]** **[[website](https://osu-nlp-group.github.io/ScienceAgentBench/)]**
 * **[ACL Findings 2024 (long)]** AttributionBench: How Hard is Automatic Attribution Evaluation? <br>

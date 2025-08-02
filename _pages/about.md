@@ -26,9 +26,9 @@ I’m currently looking for summer internship opportunities. Feel free to reach 
 
 ## Preprints
 * **[arXiv 06/2025]** AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists <br>
-**Yifei Li$^{\*}$**, Hanane Nour Moussa$^{\*}$, Ziru Chen, Shijie Chen, Botao Yu, Mingyi Xue, Benjamin Burns, Tzu-Yao Chiu, Vishal Dey, Zitong Lu, Chen Wei, Qianheng Zhang, Tianyu Zhang, Song Gao, Xuhui Huang, Xia Ning, Nesreen K. Ahmed, Ali Payani, Huan Sun
+**Yifei Li$^{\*}$**, Hanane Nour Moussa$^{\*}$, Ziru Chen, Shijie Chen, Botao Yu, Mingyi Xue, Benjamin Burns, Tzu-Yao Chiu, Vishal Dey, Zitong Lu, Chen Wei, Qianheng Zhang, Tianyu Zhang, Song Gao, Xuhui Huang, Xia Ning, Nesreen K. Ahmed, Ali Payani, Huan Sun <br>
 * **[arXiv 06/2025]** Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge <br>
-Boyu Gou*, Zanming Huang*, Yuting Ning*, …, Huan Sun, Yu Su
+Boyu Gou*, Zanming Huang*, Yuting Ning*, …, Huan Sun, Yu Su <br>
 
 ## Publications
 

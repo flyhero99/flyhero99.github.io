@@ -19,7 +19,7 @@ I’m currently looking for 2026 summer internship opportunities. Feel free to r
 * [06/2025] Check out our new preprint **[Mind2Web2](https://osu-nlp-group.github.io/Mind2Web-2/)**, a benchmark for evaluating agentic search with agent-as-a-judge.
   
 * [01/2025] Our paper **[ScienceAgentBench](https://osu-nlp-group.github.io/ScienceAgentBench/)** is accepted to ICLR 2025.
-* 
+
 * [10/2024] Check out our new preprint **[ScienceAgentBench](https://osu-nlp-group.github.io/ScienceAgentBench/)**, a new benchmark to rigorously assess language agents for data-driven scientific discovery.
   
 * [08/2024] Will be in-person attending ACL 2024 at Bangkok, Thailand from Aug 10th to Aug 16th. Welcome to coffee chats!

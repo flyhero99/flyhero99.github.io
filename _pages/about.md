@@ -27,7 +27,7 @@ I’m currently looking for summer internship opportunities. Feel free to reach 
 ## Preprints
 * **[arXiv 06/2025]** AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists <br>
 **Yifei Li$^{\*}$**, Hanane Nour Moussa$^{\*}$, Ziru Chen, Shijie Chen, Botao Yu, Mingyi Xue, Benjamin Burns, Tzu-Yao Chiu, Vishal Dey, Zitong Lu, Chen Wei, Qianheng Zhang, Tianyu Zhang, Song Gao, Xuhui Huang, Xia Ning, Nesreen K. Ahmed, Ali Payani, Huan Sun <br>
-[[pdf](https://arxiv.org/pdf/2506.08140)][[code](https://github.com/OSU-NLP-Group/ScienceAgentBench)][[data](https://huggingface.co/datasets/osunlp/ScienceAgentBench)][[website](https://osu-nlp-group.github.io/ScienceAgentBench/)]
+[[pdf](https://arxiv.org/pdf/2506.08140)][[code](https://github.com/OSU-NLP-Group/AutoSDT)][[data](https://huggingface.co/datasets/osunlp/AutoSDT-5K)][[website](https://osu-nlp-group.github.io/AutoSDT/)]
 * **[arXiv 06/2025]** Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge <br>
 Boyu Gou$^{\*}$, Zanming Huang$^{\*}$, Yuting Ning$^{\*}$, Yu Gu, Michael Lin, Weijian Qi, Andrei Kopanev, Botao Yu, Bernal Jiménez Gutiérrez, Yiheng Shu, Chan Hee Song, Jiaman Wu, Shijie Chen, Hanane Nour Moussa, Tianshu Zhang, Jian Xie, **Yifei Li**, Tianci Xue, Zeyi Liao, Kai Zhang, Boyuan Zheng, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su <br>
 [[pdf](https://arxiv.org/pdf/2506.21506)][[code](https://github.com/OSU-NLP-Group/Mind2Web-2)][[data](https://huggingface.co/datasets/osunlp/Mind2Web-2)][[website](https://osu-nlp-group.github.io/Mind2Web-2/)]

@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## Bio
 
-I’m a second-year Ph.D. student at [The Ohio State University](https://cse.osu.edu/), proudly advised by Prof. [Huan Sun](https://web.cse.ohio-state.edu/~sun.397/). My recent research interests focus on leveraging LLMs for scientific coding tasks, as well as enhancing the reasoning ability and faithfulness of large language models. Previously, I received my Master's degree from [Peking University](https://cs.pku.edu.cn/English/Home.htm) in 2023 and Bachelor's degree from [Northeastern University (China)](http://sc.neu.edu.cn/english/main.htm) in 2020.
+I’m a second-year Ph.D. student at [The Ohio State University](https://cse.osu.edu/), proudly advised by Prof. [Huan Sun](https://cse.osu.edu/people/sun.397). My recent research interests focus on leveraging LLMs for scientific coding tasks, as well as enhancing the reasoning ability and faithfulness of large language models. Previously, I received my Master's degree from [Peking University](https://cs.pku.edu.cn/English/Home.htm) in 2023 and Bachelor's degree from [Northeastern University (China)](http://sc.neu.edu.cn/english/main.htm) in 2020.
 
 I’m currently looking for 2026 summer internship opportunities. Feel free to reach out to me if you’re interested in my research!
 

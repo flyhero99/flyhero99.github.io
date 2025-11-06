@@ -9,11 +9,14 @@ redirect_from:
 ---
 ## Bio
 
-I’m a third-year Ph.D. student at [The Ohio State University](https://cse.osu.edu/), proudly advised by Prof. [Huan Sun](https://cse.osu.edu/people/sun.397). My recent research interests focus on leveraging LLMs for scientific coding tasks, as well as enhancing the reasoning ability and faithfulness of large language models. Previously, I received my Master's degree from [Peking University](https://cs.pku.edu.cn/English/Home.htm) in 2023 and Bachelor's degree from [Northeastern University (China)](http://sc.neu.edu.cn/english/main.htm) in 2020.
+I’m a third-year Ph.D. student at [The Ohio State University](https://cse.osu.edu/), proudly advised by Prof. [Huan Sun](https://cse.osu.edu/people/sun.397). My recent research interests focus on enhancing LLM agents for coding and scientific research. Previously, I received my Master's degree from [Peking University](https://cs.pku.edu.cn/English/Home.htm) in 2023 and Bachelor's degree from [Northeastern University (China)](http://sc.neu.edu.cn/english/main.htm) in 2020.
 
-I’m currently looking for 2026 summer internship opportunities. Feel free to reach out to me if you’re interested in my research!
+**I’m currently looking for 2026 summer internship opportunities. Feel free to reach out to me if you’re interested in my research!**
 
 ## News
+* [11/2025] Will be in-person attending EMNLP 2025 at Suzhou, China from Nov 4th to Nov 9th. Welcome to coffee chats!
+* [10/2025] **[AutoSDT](https://osu-nlp-group.github.io/AutoSDT/)** just received best paper award at COLM 2025 LM4Sci  Workshop!
+
 * [08/2025] **[AutoSDT](https://osu-nlp-group.github.io/AutoSDT/)** is accepted at EMNLP 2025!
   
 * [06/2025] Releasing **[AutoSDT](https://osu-nlp-group.github.io/AutoSDT/)**, an automated pipeline for scaling high-quality data-driven scientific coding tasks.

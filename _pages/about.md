@@ -15,7 +15,8 @@ I’m a third-year Ph.D. student at [The Ohio State University](https://cse.osu.
 
 ## News
 * [11/2025] Will be in-person attending EMNLP 2025 at Suzhou, China from Nov 4th to Nov 9th. Welcome to coffee chats!
-* [10/2025] **[AutoSDT](https://osu-nlp-group.github.io/AutoSDT/)** just received best paper award at COLM 2025 LM4Sci  Workshop!
+* 
+* [10/2025] **[AutoSDT](https://osu-nlp-group.github.io/AutoSDT/)** just received **best paper award at COLM 2025 LM4Sci  Workshop**!
 
 * [08/2025] **[AutoSDT](https://osu-nlp-group.github.io/AutoSDT/)** is accepted at EMNLP 2025!
   

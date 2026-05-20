@@ -11,11 +11,12 @@ redirect_from:
 
 I’m a third-year Ph.D. student at [The Ohio State University](https://cse.osu.edu/), proudly advised by Prof. [Huan Sun](https://cse.osu.edu/people/sun.397). My recent research interests focus on enhancing LLM agents for coding and scientific research. Previously, I received my Master's degree from [Peking University](https://cs.pku.edu.cn/English/Home.htm) in 2023 and Bachelor's degree from [Northeastern University (China)](http://sc.neu.edu.cn/english/main.htm) in 2020.
 
-**I’m currently looking for 2026 summer internship opportunities. Feel free to reach out to me if you’re interested in my research!**
+<!-- **I’m currently looking for 2026 summer internship opportunities. Feel free to reach out to me if you’re interested in my research!** -->
 
 ## News
+* [05/2026] Starting internship at Microsoft Research in Redmond, WA.
+* [04/2026] Releasing **[D3-Gym](https://github.com/OSU-NLP-Group/D3-Gym)**, the first automatically constructed verifiable environments for Data-Driven Discovery!
 * [11/2025] Will be in-person attending EMNLP 2025 at Suzhou, China from Nov 4th to Nov 9th. Welcome to coffee chats!
-* 
 * [10/2025] **[AutoSDT](https://osu-nlp-group.github.io/AutoSDT/)** just received **best paper award at COLM 2025 LM4Sci  Workshop**!
 
 * [08/2025] **[AutoSDT](https://osu-nlp-group.github.io/AutoSDT/)** is accepted at EMNLP 2025!
@@ -24,7 +25,7 @@ I’m a third-year Ph.D. student at [The Ohio State University](https://cse.osu.
   
 * [06/2025] Check out our new preprint **[Mind2Web2](https://osu-nlp-group.github.io/Mind2Web-2/)**, a benchmark for evaluating agentic search with agent-as-a-judge.
   
-* [01/2025] Our paper **[ScienceAgentBench](https://osu-nlp-group.github.io/ScienceAgentBench/)** is accepted to ICLR 2025.
+* [01/2025] Our paper **[ScienceAgentBench](https://osu-nlp-group.github.io/ScienceAgentBench/)** is accepted to ICLR 2024.
 
 * [10/2024] Check out our new preprint **[ScienceAgentBench](https://osu-nlp-group.github.io/ScienceAgentBench/)**, a new benchmark to rigorously assess language agents for data-driven scientific discovery.
   
@@ -39,28 +40,31 @@ I’m a third-year Ph.D. student at [The Ohio State University](https://cse.osu.
 * [03/2024] Our paper **[TableLlama](https://osu-nlp-group.github.io/TableLlama/)** got accepted by **NAACL 2024** (565/2434=23.2%)!
 
 ## Preprints
-* **[arXiv 06/2025]** AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists <br>
-**Yifei Li$^{\*}$**, Hanane Nour Moussa$^{\*}$, Ziru Chen, Shijie Chen, Botao Yu, Mingyi Xue, Benjamin Burns, Tzu-Yao Chiu, Vishal Dey, Zitong Lu, Chen Wei, Qianheng Zhang, Tianyu Zhang, Song Gao, Xuhui Huang, Xia Ning, Nesreen K. Ahmed, Ali Payani, Huan Sun <br>
-[[pdf](https://arxiv.org/pdf/2506.08140)][[code](https://github.com/OSU-NLP-Group/AutoSDT)][[data](https://huggingface.co/datasets/osunlp/AutoSDT-5K)][[website](https://osu-nlp-group.github.io/AutoSDT/)]
-* **[arXiv 06/2025]** Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge <br>
-Boyu Gou$^{\*}$, Zanming Huang$^{\*}$, Yuting Ning$^{\*}$, Yu Gu, Michael Lin, Weijian Qi, Andrei Kopanev, Botao Yu, Bernal Jiménez Gutiérrez, Yiheng Shu, Chan Hee Song, Jiaman Wu, Shijie Chen, Hanane Nour Moussa, Tianshu Zhang, Jian Xie, **Yifei Li**, Tianci Xue, Zeyi Liao, Kai Zhang, Boyuan Zheng, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su <br>
-[[pdf](https://arxiv.org/pdf/2506.21506)][[code](https://github.com/OSU-NLP-Group/Mind2Web-2)][[data](https://huggingface.co/datasets/osunlp/Mind2Web-2)][[website](https://osu-nlp-group.github.io/Mind2Web-2/)]
+* **[arXiv 04/2026]** D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery <br>
+  Hanane Nour Moussa, **Yifei Li**, Zhuoyang Li, Yankai Yang, Cheng Tang, Tianshu Zhang, Nesreen K. Ahmed, Ali Payani, Ziru Chen, Huan Sun <br>
+  [[pdf](https://arxiv.org/pdf/2604.27977)][[code](https://github.com/OSU-NLP-Group/D3-Gym)][[data](https://huggingface.co/collections/osunlp/d3-gym)]
 
 ## Publications
 
+* **[EMNLP 2025]** AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists <br>
+  **Yifei Li$^{\*}$**, Hanane Nour Moussa$^{\*}$, Ziru Chen, Shijie Chen, Botao Yu, Mingyi Xue, Benjamin Burns, Tzu-Yao Chiu, Vishal Dey, Zitong Lu, Chen Wei, Qianheng Zhang, Tianyu Zhang, Song Gao, Xuhui Huang, Xia Ning, Nesreen K. Ahmed, Ali Payani, Huan Sun <br>
+  [[pdf](https://aclanthology.org/2025.emnlp-main.1546/)][[code](https://github.com/OSU-NLP-Group/AutoSDT)][[data](https://huggingface.co/datasets/osunlp/AutoSDT-5K)][[website](https://osu-nlp-group.github.io/AutoSDT/)]
+* **[NeurIPS 2025 (D&B Track)]** Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge <br>
+  Boyu Gou$^{\*}$, Zanming Huang$^{\*}$, Yuting Ning$^{\*}$, Yu Gu, Michael Lin, Weijian Qi, Andrei Kopanev, Botao Yu, Bernal Jiménez Gutiérrez, Yiheng Shu, Chan Hee Song, Jiaman Wu, Shijie Chen, Hanane Nour Moussa, Tianshu Zhang, Jian Xie, **Yifei Li**, Tianci Xue, Zeyi Liao, Kai Zhang, Boyuan Zheng, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su <br>
+  [[pdf](https://arxiv.org/pdf/2506.21506)][[code](https://github.com/OSU-NLP-Group/Mind2Web-2)][[data](https://huggingface.co/datasets/osunlp/Mind2Web-2)][[website](https://osu-nlp-group.github.io/Mind2Web-2/)]
 * **[ICLR 2024]** ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery <br>
   Ziru Chen$^{\*}$, Shijie Chen$^{\*}$, Yuting Ning, Qianheng Zhang, Boshi Wang, Botao Yu, **Yifei Li**, Zeyi Liao, Chen Wei, Zitong Lu, Vishal Dey, Mingyi Xue, Frazier N Baker, Benjamin Burns, Daniel Adu-Ampratwum, Xuhui Huang, Xia Ning, Song Gao, Yu Su, Huan Sun <br>
   [[pdf](https://arxiv.org/pdf/2410.05080)][[code](https://github.com/OSU-NLP-Group/ScienceAgentBench)][[data](https://huggingface.co/datasets/osunlp/ScienceAgentBench)][[website](https://osu-nlp-group.github.io/ScienceAgentBench/)]
-* **[ACL Findings 2024 (long)]** AttributionBench: How Hard is Automatic Attribution Evaluation? <br>
+* **[ACL Findings 2024]** AttributionBench: How Hard is Automatic Attribution Evaluation? <br>
   **Yifei Li$^*$**, Xiang Yue, Zeyi Liao, Huan Sun <br>
   [[pdf](https://aclanthology.org/2024.findings-acl.886.pdf)][[code](https://github.com/OSU-NLP-Group/AttributionBench)][[data](https://huggingface.co/datasets/osunlp/AttributionBench/)][[website](https://osu-nlp-group.github.io/AttributionBench/)][[Poster](https://flyhero99.github.io/files/AttributionBench_Poster_v1.pdf)]
-* **[ACL 2024 (long)]** Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning <br>
+* **[ACL 2024]** Math-Shepherd: A Label-Free Step-by-Step Verifier for LLMs in Mathematical Reasoning <br>
   Peiyi Wang*, Lei Li, Zhihong Shao, RX Xu, Damai Dai, **Yifei Li**, Deli Chen, Yu Wu, Zhifang Sui <br>
   [[pdf](https://arxiv.org/pdf/2312.08935)][[data](https://huggingface.co/datasets/peiyi9979/Math-Shepherd)][[model](https://huggingface.co/peiyi9979/math-shepherd-mistral-7b-rl)][[website](https://achieved-bellflower-4d6.notion.site/Math-Shepherd-Verify-and-Reinforce-LLMs-Step-by-step-without-Human-Annotations-41b6e73c860840e08697d347f8889bac)]
-* **[NAACL 2024 (long)]** TableLlama: Towards Open Large Generalist Models for Tables <br>
+* **[NAACL 2024]** TableLlama: Towards Open Large Generalist Models for Tables <br>
   Tianshu Zhang$^*$, Xiang Yue, **Yifei Li**, Huan Sun <br>
   [[pdf](https://arxiv.org/pdf/2311.09206)][[code](https://github.com/OSU-NLP-Group/TableLlama)][[data](https://huggingface.co/datasets/osunlp/TableInstruct/)][[model](https://huggingface.co/osunlp/TableLlama/)][[website](https://osu-nlp-group.github.io/TableLlama/)]
-* **[ACL 2023 (long)]** Making language models better reasoners with step-aware verifier<br>
+* **[ACL 2023]** Making language models better reasoners with step-aware verifier<br>
   **Yifei Li$^*$**, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou, Weizhu Chen<br>
   [[pdf](https://aclanthology.org/2023.acl-long.291.pdf)][[code](https://github.com/flyhero99/CodeT/tree/main/DIVERSE)][[data](https://github.com/microsoft/CodeT/tree/main/DIVERSE/data)][[poster](https://flyhero99.github.io/files/DIVERSE_Poster.pdf)][[video](https://flyhero99.github.io/files/diverse_video_v1.mp4)]
 
@@ -74,7 +78,7 @@ Boyu Gou$^{\*}$, Zanming Huang$^{\*}$, Yuting Ning$^{\*}$, Yu Gu, Michael Lin, W
   [[pdf](https://arxiv.org/pdf/2203.03131.pdf)]
 
 
-Last Update: 08/02/2025
+Last Update: 05/20/2026
 
 <div id="mapContainer" style="width: 40%; margin: 0 auto;">
 <script type="text/javascript" id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=KeINzbp3V1iU2qXCgaZzqvSntRFws0v-dJqifZ5CBKM&cl=ffffff&w=a"></script>

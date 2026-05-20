@@ -41,7 +41,7 @@ I’m a third-year Ph.D. student at [The Ohio State University](https://cse.osu.
 
 ## Preprints
 * **[arXiv 04/2026]** D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery <br>
-  Hanane Nour Moussa, **Yifei Li**, Zhuoyang Li, Yankai Yang, Cheng Tang, Tianshu Zhang, Nesreen K. Ahmed, Ali Payani, Ziru Chen, Huan Sun <br>
+  Hanane Nour Moussa$^{\*}$, **Yifei Li$^{\*}$**, Zhuoyang Li, Yankai Yang, Cheng Tang, Tianshu Zhang, Nesreen K. Ahmed, Ali Payani, Ziru Chen, Huan Sun <br>
   [[pdf](https://arxiv.org/pdf/2604.27977)][[code](https://github.com/OSU-NLP-Group/D3-Gym)][[data](https://huggingface.co/collections/osunlp/d3-gym)]
 
 ## Publications

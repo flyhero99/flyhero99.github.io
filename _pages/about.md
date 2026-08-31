@@ -9,11 +9,13 @@ redirect_from:
 ---
 ## Bio
 
-I’m a third-year Ph.D. student at [The Ohio State University](https://cse.osu.edu/), proudly advised by Prof. [Huan Sun](https://cse.osu.edu/people/sun.397). My recent research interests focus on enhancing LLM agents for coding and scientific research. Previously, I received my Master's degree from [Peking University](https://cs.pku.edu.cn/English/Home.htm) in 2023 and Bachelor's degree from [Northeastern University (China)](http://sc.neu.edu.cn/english/main.htm) in 2020.
+I’m a fourth-year Ph.D. student at [The Ohio State University](https://cse.osu.edu/), proudly advised by Prof. [Huan Sun](https://cse.osu.edu/people/sun.397). My recent research interests focus on enhancing LLM agents for coding and scientific research. Previously, I received my Master's degree from [Peking University](https://cs.pku.edu.cn/English/Home.htm) in 2023 and Bachelor's degree from [Northeastern University (China)](http://sc.neu.edu.cn/english/main.htm) in 2020.
 
 <!-- **I’m currently looking for 2026 summer internship opportunities. Feel free to reach out to me if you’re interested in my research!** -->
 
 ## News
+<div class="news-scroll" style="max-height: 320px; overflow-y: auto; padding-right: 10px; margin-bottom: 1.5em;" markdown="1">
+* [08/2026] Our paper **[D3-Gym](https://github.com/OSU-NLP-Group/D3-Gym)** is accepted by EMNLP 2026 (Main Conference, 15.4%), and **nominated for an award**!
 * [05/2026] Starting internship at Microsoft Research in Redmond, WA.
 * [04/2026] Releasing **[D3-Gym](https://github.com/OSU-NLP-Group/D3-Gym)**, the first automatically constructed verifiable environments for Data-Driven Discovery!
 * [11/2025] Will be in-person attending EMNLP 2025 at Suzhou, China from Nov 4th to Nov 9th. Welcome to coffee chats!
@@ -38,14 +40,13 @@ I’m a third-year Ph.D. student at [The Ohio State University](https://cse.osu.
 * [04/2024] Our paper **[TableLlama](https://osu-nlp-group.github.io/TableLlama/)** got accepted by **NAACL 2024** as an **Oral Paper 🔥** (145/2434=6.0%)!!
   
 * [03/2024] Our paper **[TableLlama](https://osu-nlp-group.github.io/TableLlama/)** got accepted by **NAACL 2024** (565/2434=23.2%)!
-
-## Preprints
-* **[arXiv 04/2026]** D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery <br>
-  Hanane Nour Moussa$^{\*}$, **Yifei Li$^{\*}$**, Zhuoyang Li, Yankai Yang, Cheng Tang, Tianshu Zhang, Nesreen K. Ahmed, Ali Payani, Ziru Chen, Huan Sun <br>
-  [[pdf](https://arxiv.org/pdf/2604.27977)][[code](https://github.com/OSU-NLP-Group/D3-Gym)][[data](https://huggingface.co/collections/osunlp/d3-gym)]
+</div>
 
 ## Publications
 
+* **[EMNLP 2026]** D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery <br>
+  Hanane Nour Moussa$^{\*}$, **Yifei Li$^{\*}$**, Zhuoyang Li, Yankai Yang, Cheng Tang, Tianshu Zhang, Nesreen K. Ahmed, Ali Payani, Ziru Chen, Huan Sun <br>
+  [[pdf](https://arxiv.org/pdf/2604.27977)][[code](https://github.com/OSU-NLP-Group/D3-Gym)][[data](https://huggingface.co/collections/osunlp/d3-gym)]
 * **[EMNLP 2025]** AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists <br>
   **Yifei Li$^{\*}$**, Hanane Nour Moussa$^{\*}$, Ziru Chen, Shijie Chen, Botao Yu, Mingyi Xue, Benjamin Burns, Tzu-Yao Chiu, Vishal Dey, Zitong Lu, Chen Wei, Qianheng Zhang, Tianyu Zhang, Song Gao, Xuhui Huang, Xia Ning, Nesreen K. Ahmed, Ali Payani, Huan Sun <br>
   [[pdf](https://aclanthology.org/2025.emnlp-main.1546/)][[code](https://github.com/OSU-NLP-Group/AutoSDT)][[data](https://huggingface.co/datasets/osunlp/AutoSDT-5K)][[website](https://osu-nlp-group.github.io/AutoSDT/)]

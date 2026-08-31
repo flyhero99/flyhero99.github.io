@@ -33,7 +33,7 @@ I’m a fourth-year Ph.D. student at [The Ohio State University](https://cse.osu
   
 * [08/2024] Will be in-person attending ACL 2024 at Bangkok, Thailand from Aug 10th to Aug 16th. Welcome to coffee chats!
   
-* [05/2024] Our paper **[AttributionBench](https://osu-nlp-group.github.io/AttributionBench/)** got accepted by **ACL 2024 Findings** !
+* [05/2024] Our paper **[AttributionBench](https://osu-nlp-group.github.io/AttributionBench/)** got accepted by **ACL 2024 Findings**!
   
 * [05/2024] Our paper **[Math-Shepherd](https://achieved-bellflower-4d6.notion.site/Math-Shepherd-Verify-and-Reinforce-LLMs-Step-by-step-without-Human-Annotations-41b6e73c860840e08697d347f8889bac)** got accepted by **ACL 2024**!
   

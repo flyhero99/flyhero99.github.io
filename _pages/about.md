@@ -15,7 +15,7 @@ I’m a fourth-year Ph.D. student at [The Ohio State University](https://cse.osu
 
 ## News
 <div class="news-scroll" style="max-height: 320px; overflow-y: auto; padding-right: 10px; margin-bottom: 1.5em;" markdown="1">
-* [08/2026] Our paper **[D3-Gym](https://github.com/OSU-NLP-Group/D3-Gym)** is accepted by EMNLP 2026 (Accept rate: 15.4%), and **nominated for an award**!
+* [08/2026] Our paper **[D3-Gym](https://github.com/OSU-NLP-Group/D3-Gym)** is accepted by EMNLP 2026 (Accept rate: 15.4%) and received the **🏆 Outstanding Paper Award** (top 0.1%)!
 * [05/2026] Starting internship at Microsoft Research in Redmond, WA.
 * [04/2026] Releasing **[D3-Gym](https://github.com/OSU-NLP-Group/D3-Gym)**, the first automatically constructed verifiable environments for Data-Driven Discovery!
 * [11/2025] Will be in-person attending EMNLP 2025 at Suzhou, China from Nov 4th to Nov 9th. Welcome to coffee chats!
@@ -44,7 +44,7 @@ I’m a fourth-year Ph.D. student at [The Ohio State University](https://cse.osu
 
 ## Publications
 
-* **[EMNLP 2026]** D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery <br>
+* **[EMNLP 2026, 🏆 Outstanding Paper Award]** D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery <br>
   Hanane Nour Moussa$^{\*}$, **Yifei Li$^{\*}$**, Zhuoyang Li, Yankai Yang, Cheng Tang, Tianshu Zhang, Nesreen K. Ahmed, Ali Payani, Ziru Chen, Huan Sun <br>
   [[pdf](https://arxiv.org/pdf/2604.27977)][[code](https://github.com/OSU-NLP-Group/D3-Gym)][[data](https://huggingface.co/collections/osunlp/d3-gym)]
 * **[EMNLP 2025]** AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists <br>

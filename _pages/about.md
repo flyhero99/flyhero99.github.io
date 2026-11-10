@@ -82,7 +82,7 @@ I’m a fourth-year Ph.D. student at [The Ohio State University](https://cse.osu
 * 🎮 **Games**: Dota 2 (Immortal rank); Splendor (Elo 500 on [Board Game Arena](https://boardgamearena.com/), top 100 worldwide).
 * 🎹 **Music**: Played piano for 8 years; a lifelong lover of classical music.
 * 🏊 **Sports**: Swimming, basketball, and badminton.
-* ✈️ **Travel**: Love traveling! Completed a coast-to-coast road trip across the US; visited 30+ US states, 20+ Chinese provinces, as well as Thailand and Japan.
+* ✈️ **Travel**: Love traveling! Completed a coast-to-coast road trip across the US (5000+ miles); visited 30+ US states, 20+ Chinese provinces, as well as Thailand and Japan.
 
 
 Last Update: 11/09/2026

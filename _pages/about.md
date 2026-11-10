@@ -78,6 +78,11 @@ I’m a fourth-year Ph.D. student at [The Ohio State University](https://cse.osu
   Shengnan An$^*$, **Yifei Li$^*$**, Zeqi Lin, Qian Liu, Bei Chen, Qiang Fu, Weizhu Chen, Nanning Zheng, Jian-Guang Lou <br>
   [[pdf](https://arxiv.org/pdf/2203.03131.pdf)]
 
+## Misc
+* 🎮 **Games**: Dota 2 (Immortal rank); Splendor (Elo 500 on [Board Game Arena](https://boardgamearena.com/), top 100 worldwide).
+* 🎹 **Music**: Played piano for 8 years; a lifelong lover of classical music.
+* 🏊 **Sports**: Swimming, basketball, and badminton.
+
 
 Last Update: 05/20/2026
 
